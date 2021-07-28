@@ -47,7 +47,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 **Clone o projeto**
 
 ```bash
-  git clone https://github.com/FlavioSant/NLW-05-Podcastr.git
+  git clone https://github.com/Glerme/NLW-5-React.git
 ```
 
 **Siga os passo abaixo**
